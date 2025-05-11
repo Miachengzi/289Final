@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: 4c30b481eec2f4a8fa508492664a753e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1987268201530335839
+    second: Weapon1Impact_0
+  - first:
+      213: -3369145483881820032
+    second: Weapon1Impact_1
+  - first:
+      213: 8798047254318636963
+    second: Weapon1Impact_2
+  - first:
+      213: 5714953884196576477
+    second: Weapon1Impact_3
+  - first:
+      213: -441917396838858942
+    second: Weapon1Impact_4
+  - first:
+      213: -8013614501655657402
+    second: Weapon1Impact_5
+  - first:
+      213: -2608684149022858168
+    second: Weapon1Impact_6
+  - first:
+      213: 3719771090810234817
+    second: Weapon1Impact_7
+  - first:
+      213: -3095046566256020068
+    second: Weapon1Impact_8
+  - first:
+      213: -3499223298661577400
+    second: Weapon1Impact_9
+  - first:
+      213: -3324722915502199922
+    second: Weapon1Impact_10
+  - first:
+      213: 8611103187367768625
+    second: Weapon1Impact_11
+  - first:
+      213: -8879860306472192653
+    second: Weapon1Impact_12
+  - first:
+      213: -2892498476050481784
+    second: Weapon1Impact_13
+  - first:
+      213: 8773886722407811269
+    second: Weapon1Impact_14
+  - first:
+      213: -3536784980842471660
+    second: Weapon1Impact_15
+  - first:
+      213: 8714218471579117830
+    second: Weapon1Impact_16
+  - first:
+      213: 4393581742770174867
+    second: Weapon1Impact_17
+  - first:
+      213: -3440866898294378530
+    second: Weapon1Impact_18
+  - first:
+      213: 3747298214498750975
+    second: Weapon1Impact_19
+  - first:
+      213: -7668820622662949202
+    second: Weapon1Impact_20
+  - first:
+      213: -3249565495110039013
+    second: Weapon1Impact_21
+  - first:
+      213: 4481140786067275013
+    second: Weapon1Impact_22
+  - first:
+      213: 5145890403701707243
+    second: Weapon1Impact_23
+  - first:
+      213: -5527618758220248403
+    second: Weapon1Impact_24
+  - first:
+      213: 2854092959570233047
+    second: Weapon1Impact_25
+  - first:
+      213: -1650913853069401912
+    second: Weapon1Impact_26
+  - first:
+      213: 3514493807623297016
+    second: Weapon1Impact_27
+  - first:
+      213: 7141935821212859492
+    second: Weapon1Impact_28
+  - first:
+      213: -922588449922037752
+    second: Weapon1Impact_29
+  - first:
+      213: 5083626757074406034
+    second: Weapon1Impact_30
+  - first:
+      213: -9098147503141958630
+    second: Weapon1Impact_31
+  - first:
+      213: -169532869135927579
+    second: Weapon1Impact_32
+  - first:
+      213: 2425864322948832007
+    second: Weapon1Impact_33
+  - first:
+      213: 6363475208118887647
+    second: Weapon1Impact_34
+  - first:
+      213: -2951103284881049207
+    second: Weapon1Impact_35
+  - first:
+      213: -5310533468560276462
+    second: Weapon1Impact_36
+  - first:
+      213: -7813576743020816046
+    second: Weapon1Impact_37
+  - first:
+      213: 3475930448203742936
+    second: Weapon1Impact_38
+  - first:
+      213: -846450815670601918
+    second: Weapon1Impact_39
+  - first:
+      213: -835539560612640003
+    second: Weapon1Impact_40
+  - first:
+      213: -818557402607638995
+    second: Weapon1Impact_41
+  - first:
+      213: 5981846579577514521
+    second: Weapon1Impact_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon1Impact_0
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1001
+        width: 55
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535402a3149da44a78ade6f035ec5b13
+      internalID: -1987268201530335839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c32350dd5b459b9991f18131e1e00
+      internalID: -3369145483881820032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1261
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7baad214cbf46aebee752409f723a5
+      internalID: 8798047254318636963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa1169eb8a745b5b3619667f735656
+      internalID: 5714953884196576477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1249
+        width: 21
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50063c1fae70a48de88e15a81c53b840
+      internalID: -441917396838858942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_5
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1261
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb238e59b7aff41b592995ac7e905c4a
+      internalID: -8013614501655657402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 859
+        width: 413
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb740c3a4e5c49d2a6a1738fde335f0
+      internalID: -2608684149022858168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1236
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d7aec2f72349618f3ac083c77e80b
+      internalID: 3719771090810234817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1218
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27062652361394ba1b3f7db59600dfad
+      internalID: -3095046566256020068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 990
+        width: 43
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9df9bda3f354cdc8e1fde1a5ae802f
+      internalID: -3499223298661577400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1155
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1115d577687134a43973cdd3c949965c
+      internalID: -3324722915502199922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 903
+        width: 286
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8576ad530113149fe8a3ad53c6b481a8
+      internalID: 8611103187367768625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1154
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd0657163434d4ab256405121117d4
+      internalID: -8879860306472192653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1095
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746c2fd419e64a3da7a29572f7d7397
+      internalID: -2892498476050481784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1072
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c538be1fabda47dea695752599611d8
+      internalID: 8773886722407811269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 969
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b323f7b19de433fb6d73a03ec15a7d
+      internalID: -3536784980842471660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 961
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880e5c4b362714daa92338d1d61d343b
+      internalID: 8714218471579117830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 918
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230661f1771946abb2c59112e867171
+      internalID: 4393581742770174867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 906
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32db090fec754348a78d6fc9f65e882
+      internalID: -3440866898294378530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 142
+        width: 543
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019de3318f6dc4224b78db3c3791f617
+      internalID: 3747298214498750975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 645
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05bbed0828b4d388083b08bbdceece
+      internalID: -7668820622662949202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 652
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e519ccb57138c4883841cf530754df9d
+      internalID: -3249565495110039013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 82
+        width: 627
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267b19c30cb78405999f7cf26d12214b
+      internalID: 4481140786067275013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_23
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 449
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68fc5ff43ff4d63b3e4c4c974a310b
+      internalID: 5145890403701707243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 404
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176376eeda64e40268ab3d06d47ca3f4
+      internalID: -5527618758220248403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 398
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95210c83c2e42aa8adbb283a26f672
+      internalID: 2854092959570233047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 386
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d11e1088de34533a8f6e882f56c52c
+      internalID: -1650913853069401912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_27
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 371
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021987e684a44e9798cce960e44aee7
+      internalID: 3514493807623297016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_28
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 355
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b344c7077794b35a593f6ff3a7c731
+      internalID: 7141935821212859492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_29
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 343
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91043d9fe0e42019ee5c3fd7457196
+      internalID: -922588449922037752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_30
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 337
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd67040e3f874b53b7d00bafab9caf3
+      internalID: 5083626757074406034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 145
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467a8f75793c14a4d969c33af906d757
+      internalID: -9098147503141958630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 146
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5ec569f84042cb924ce545bb76135
+      internalID: -169532869135927579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 146
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2110f8462ae044e4a73b0de3ed01dd1
+      internalID: 2425864322948832007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_34
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a1106f570a64b20a1db6ad30397f06
+      internalID: 6363475208118887647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_35
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 94
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1610e4219047f8bf9117c733a20b0
+      internalID: -2951103284881049207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_36
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 95
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd3078d1f725417d962ac2f06e8bc6a
+      internalID: -5310533468560276462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_37
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3022bf8a0151415ca4767938ba4c8d1
+      internalID: -7813576743020816046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_38
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 94
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496e9728683e4867a1ca5cf0968b1dd
+      internalID: 3475930448203742936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_39
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 93
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a078a8e33b74d89bbce97eadab1b49
+      internalID: -846450815670601918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_40
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 94
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd76abe5ece4437af190c7b4891941
+      internalID: -835539560612640003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_41
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 96
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8b13cb620c47c4a297f395a4382b3
+      internalID: -818557402607638995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1Impact_42
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 86
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29ad59187b94ecaa086c582c9bb633
+      internalID: 5981846579577514521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Weapon1Impact_0: -1987268201530335839
+      Weapon1Impact_1: -3369145483881820032
+      Weapon1Impact_10: -3324722915502199922
+      Weapon1Impact_11: 8611103187367768625
+      Weapon1Impact_12: -8879860306472192653
+      Weapon1Impact_13: -2892498476050481784
+      Weapon1Impact_14: 8773886722407811269
+      Weapon1Impact_15: -3536784980842471660
+      Weapon1Impact_16: 8714218471579117830
+      Weapon1Impact_17: 4393581742770174867
+      Weapon1Impact_18: -3440866898294378530
+      Weapon1Impact_19: 3747298214498750975
+      Weapon1Impact_2: 8798047254318636963
+      Weapon1Impact_20: -7668820622662949202
+      Weapon1Impact_21: -3249565495110039013
+      Weapon1Impact_22: 4481140786067275013
+      Weapon1Impact_23: 5145890403701707243
+      Weapon1Impact_24: -5527618758220248403
+      Weapon1Impact_25: 2854092959570233047
+      Weapon1Impact_26: -1650913853069401912
+      Weapon1Impact_27: 3514493807623297016
+      Weapon1Impact_28: 7141935821212859492
+      Weapon1Impact_29: -922588449922037752
+      Weapon1Impact_3: 5714953884196576477
+      Weapon1Impact_30: 5083626757074406034
+      Weapon1Impact_31: -9098147503141958630
+      Weapon1Impact_32: -169532869135927579
+      Weapon1Impact_33: 2425864322948832007
+      Weapon1Impact_34: 6363475208118887647
+      Weapon1Impact_35: -2951103284881049207
+      Weapon1Impact_36: -5310533468560276462
+      Weapon1Impact_37: -7813576743020816046
+      Weapon1Impact_38: 3475930448203742936
+      Weapon1Impact_39: -846450815670601918
+      Weapon1Impact_4: -441917396838858942
+      Weapon1Impact_40: -835539560612640003
+      Weapon1Impact_41: -818557402607638995
+      Weapon1Impact_42: 5981846579577514521
+      Weapon1Impact_5: -8013614501655657402
+      Weapon1Impact_6: -2608684149022858168
+      Weapon1Impact_7: 3719771090810234817
+      Weapon1Impact_8: -3095046566256020068
+      Weapon1Impact_9: -3499223298661577400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
